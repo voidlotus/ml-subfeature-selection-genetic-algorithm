@@ -1,4 +1,4 @@
-# Machine Learning Sub-Featue Selection with Genetic Algorithm
+# Machine Learning Sub-Feature Selection with Genetic Algorithm
 
 ## Introduction and Motivation
 
